@@ -1,0 +1,15 @@
+{
+  "name": "webpack-ts-sourcemaps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tim van Osch <timvosch@pollex.nl>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^7.0.3",
+    "tsconfig-paths-webpack-plugin": "^3.2.0",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
