@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Tim van Osch <timvosch@pollex.nl>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "ts-loader": "^7.0.3",
     "tsconfig-paths-webpack-plugin": "^3.2.0",
